@@ -1,4 +1,4 @@
-A (slightly modified) implementation of Dcut network clustering algorithm. Modifications where made to produce the clusters in the desired size range.
+A (slightly modified) implementation of Dcut network clustering algorithm. The changes made aim to produce clusters in the desired size range. Compile with Maven to produce the executable jar.
 
 Reference: Graph Clustering with Density-Cut; Junming Shao, Qinli Yang, Jinhu Liu, Stefan Kramer; 2016; https://arxiv.org/abs/1606.00950
 
