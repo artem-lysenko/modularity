@@ -6,5 +6,5 @@ Arguments by position:
 - Number of CPU threads to use.
 - Maximum module size (hard limit --  all modules produced will be below this size)
 - Minimum module size (soft limit -- some modules produced may be below this size as maximum module size takes priority).
-- [optional] put in 'experimenatl' word as argument in the last position for density tree to be cut at the highest density edges rather than the lowest ones.
+- [optional] put in 'experimenal' word as argument in the last position for density tree to be cut at the highest density edges rather than the lowest ones.
 Outputs: a .tree_file containing the generated density tree and .pascal file with moudles in PASCAL tool format (each line starts with cluster id followed by cluster confidence number (not used, so always set to 1.0) then followed by ids of cluster members).
